@@ -47,4 +47,3 @@ InventoryManagementAPI/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/sakshidhandar9/InventoryManagementAPI.git
-

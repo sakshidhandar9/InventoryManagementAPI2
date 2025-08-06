@@ -8,7 +8,7 @@ This is a RESTful API built with ASP.NET Core for managing inventory, products, 
 - Entity Framework Core
 - SQL Server
 - FluentValidation
-- Swagger / Swashbuckle
+- Swagger
 - Visual Studio 2022
   
 ## 📁 Project Structure

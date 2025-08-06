@@ -34,7 +34,6 @@ InventoryManagementAPI/
 - ✅ SQL Server integration via EF Core
 - ✅ DTOs to decouple domain and API contracts
 
-
 ### Prerequisites
 
 - [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)

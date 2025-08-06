@@ -3,7 +3,6 @@
 This is a RESTful API built with ASP.NET Core for managing inventory, products, suppliers, and categories. It follows a clean architecture using services, DTOs, and validation with FluentValidation.
 
 ## 🛠️ Tech Stack
-
 - ASP.NET Core Web API (.NET 6+)
 - Entity Framework Core
 - SQL Server
